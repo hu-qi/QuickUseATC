@@ -85,6 +85,6 @@ pretrain_model_path = c2net_context.pretrain_model_path
 
 <!-- 引用链接 -->
 
-[1]: <https://openi.org.cn/> "启智社区"
+[1]: <https://openi.pcl.ac.cn/user/sign_up?sharedUser=huqi> "启智社区"
 [2]: <https://openi.pcl.ac.cn/huqi/QuickUseATC> "快速使用 ATC"
 [3]: <https://openi.pcl.ac.cn/docs/index.html#/cloudbrain/debug/debug> "云脑调试任务"
