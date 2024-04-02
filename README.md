@@ -22,7 +22,7 @@
   - 镜像： `mindtorch0.2_mindspore2.2.1_torchnpu2.1.0_cann7.0rc1`
   - 数据集： 按需选择
   - 选择模型： 按需选择
-  - 代码分支：`master`
+  - 代码分支：`main`
 
 3. 点击`新建任务`创建调试任务
 
